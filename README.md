@@ -13,4 +13,4 @@ Python · scikit-learn · XGBoost · Pandas · Streamlit · Plotly · Git/GitHub
 
 
 **Email**
-prabhavpnair2008@gmail.com
+: prabhavpnair2008@gmail.com
