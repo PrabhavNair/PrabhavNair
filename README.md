@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Prabhav 👋
 
-<!--
-**PrabhavNair/PrabhavNair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Right now I’m building a **Parkinson’s UPDRS forecasting app** (XGBoost + Streamlit) that turns routine clinic scores into short-term symptom forecasts. The goal of this project is to help families see the **near-term symptom burden** coming up—useful for planning day-to-day life and for **earlier conversations with clinicians**. I focus on **UPDRS I** (non-motor symptoms) because changes there can flag broader needs—sleep hygiene, mood support, or a medication review—even when motor scores look stable. *Educational tool, not medical advice.*
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Featured project**
+- Paper (preprint): https://docs.google.com/document/d/1LrbF3CD0Vhtgqn5jvSufjf71R4S44utVn-8aT8xJkH4/edit?tab=t.0
+- Live app: coming soon
+
+
+**Tech**
+Python · scikit-learn · XGBoost · Pandas · Streamlit · Plotly · Git/GitHub
+
+
+**Email**
+prabhavpnair2008@gmail.com
